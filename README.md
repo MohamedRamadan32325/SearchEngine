@@ -1,4 +1,4 @@
-#Download this packages in Python file#
+#Download this packages in Python file
 - nltk
 - stopwords
 - networkx
