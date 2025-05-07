@@ -21,7 +21,7 @@ START_URLS = [
     "https://www.uefa.com/uefachampionsleague/"
 ]
 
-MAX_PAGES = 100
+MAX_PAGES = 10000
 CONTENT_DIR = "../output/content"
 
 if not os.path.exists(CONTENT_DIR):

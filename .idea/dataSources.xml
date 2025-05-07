@@ -18,5 +18,12 @@
       <jdbc-url>jdbc:sqlserver://localhost\.:1433;database=test4</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="SearchDB@localhost" uuid="efb660cf-6c11-435d-b28b-c9e2afc5e0f4">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost\.:1433;database=SearchDB</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

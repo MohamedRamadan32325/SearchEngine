@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\moram\\SearchEngine\\WebPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\repositry\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\repositry\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\migrations\\20250507013759_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\migrations\\20250507013759_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\migrations\\20250507013344_fo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\migrations\\20250507013344_fo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507205908_Final2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebPage\\Migrations\\20250507205908_Final2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\models\\inverted_index_sorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\models\\inverted_index_sorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\models\\urlswithranks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +31,32 @@
       "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\models\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\models\\inverted_index_sorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\models\\inverted_index_sorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\repositry\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\repositry\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\repositry\\irepositry\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\repositry\\irepositry\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\migrations\\20250507203445_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\migrations\\20250507203445_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\migrations\\20250507013344_fo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\migrations\\20250507013344_fo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\migrations\\20250507013759_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\migrations\\20250507013759_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\migrations\\20250507005733_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\webpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\webpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\repositry\\irepositry\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|solutionrelative:webpage\\repositry\\irepositry\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38F2F7B3-DBB4-4B1B-84A3-CCC6C818D8D6}|WebPage\\WebPage.csproj|c:\\users\\moram\\searchengine\\webpage\\webpage\\migrations\\20250506231034_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,24 +93,164 @@
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250507205908_Final2.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507205908_Final2.cs",
+              "RelativeDocumentMoniker": "WebPage\\Migrations\\20250507205908_Final2.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507205908_Final2.cs",
+              "RelativeToolTip": "WebPage\\Migrations\\20250507205908_Final2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:59:08.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Urlswithranks.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\Urlswithranks.cs",
+              "RelativeDocumentMoniker": "WebPage\\Models\\Urlswithranks.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\Urlswithranks.cs",
+              "RelativeToolTip": "WebPage\\Models\\Urlswithranks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:44:14.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inverted_index_sorted.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\inverted_index_sorted.cs",
+              "RelativeDocumentMoniker": "WebPage\\Models\\inverted_index_sorted.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\inverted_index_sorted.cs",
+              "RelativeToolTip": "WebPage\\Models\\inverted_index_sorted.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:44:14.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebPage\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebPage\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:47:41.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\appsettings.json",
+              "RelativeDocumentMoniker": "WebPage\\appsettings.json",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\appsettings.json",
+              "RelativeToolTip": "WebPage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T17:56:53.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\SearchResult.cs",
+              "RelativeDocumentMoniker": "WebPage\\Models\\SearchResult.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\SearchResult.cs",
+              "RelativeToolTip": "WebPage\\Models\\SearchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:48:23.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20250507013759_mon.cs",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507013759_mon.cs",
-              "RelativeDocumentMoniker": "WebPage\\Migrations\\20250507013759_mon.cs",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507013759_mon.cs",
-              "RelativeToolTip": "WebPage\\Migrations\\20250507013759_mon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Program.cs",
+              "RelativeDocumentMoniker": "WebPage\\Program.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Program.cs",
+              "RelativeToolTip": "WebPage\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T01:38:00.53Z"
+              "WhenOpened": "2025-05-06T18:01:56.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Repositry\\SearchService.cs",
+              "RelativeDocumentMoniker": "WebPage\\Repositry\\SearchService.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Repositry\\SearchService.cs",
+              "RelativeToolTip": "WebPage\\Repositry\\SearchService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:49:53.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Views\\Search\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebPage\\Views\\Search\\Index.cshtml",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Views\\Search\\Index.cshtml",
+              "RelativeToolTip": "WebPage\\Views\\Search\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T23:23:32.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISearchService.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Repositry\\IRepositry\\ISearchService.cs",
+              "RelativeDocumentMoniker": "WebPage\\Repositry\\IRepositry\\ISearchService.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Repositry\\IRepositry\\ISearchService.cs",
+              "RelativeToolTip": "WebPage\\Repositry\\IRepositry\\ISearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:47:47.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "WebPage\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "WebPage\\Controllers\\SearchController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:22:28.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250507203445_Final.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507203445_Final.cs",
+              "RelativeDocumentMoniker": "WebPage\\Migrations\\20250507203445_Final.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507203445_Final.cs",
+              "RelativeToolTip": "WebPage\\Migrations\\20250507203445_Final.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:34:45.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20250507013344_fo.cs",
               "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507013344_fo.cs",
               "RelativeDocumentMoniker": "WebPage\\Migrations\\20250507013344_fo.cs",
@@ -114,116 +262,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Urlswithranks.cs",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\Urlswithranks.cs",
-              "RelativeDocumentMoniker": "WebPage\\Models\\Urlswithranks.cs",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\Urlswithranks.cs",
-              "RelativeToolTip": "WebPage\\Models\\Urlswithranks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "20250507013759_mon.cs",
+              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507013759_mon.cs",
+              "RelativeDocumentMoniker": "WebPage\\Migrations\\20250507013759_mon.cs",
+              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507013759_mon.cs",
+              "RelativeToolTip": "WebPage\\Migrations\\20250507013759_mon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T18:44:14.672Z"
+              "WhenOpened": "2025-05-07T01:38:00.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SearchService.cs",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Repositry\\SearchService.cs",
-              "RelativeDocumentMoniker": "WebPage\\Repositry\\SearchService.cs",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Repositry\\SearchService.cs",
-              "RelativeToolTip": "WebPage\\Repositry\\SearchService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T22:49:53.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SearchResult.cs",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\SearchResult.cs",
-              "RelativeDocumentMoniker": "WebPage\\Models\\SearchResult.cs",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\SearchResult.cs",
-              "RelativeToolTip": "WebPage\\Models\\SearchResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T22:48:23.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\appsettings.json",
-              "RelativeDocumentMoniker": "WebPage\\appsettings.json",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\appsettings.json",
-              "RelativeToolTip": "WebPage\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-06T17:56:53.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Views\\Search\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebPage\\Views\\Search\\Index.cshtml",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Views\\Search\\Index.cshtml",
-              "RelativeToolTip": "WebPage\\Views\\Search\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T23:23:32.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebPage\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "WebPage\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T17:47:41.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "inverted_index_sorted.cs",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\inverted_index_sorted.cs",
-              "RelativeDocumentMoniker": "WebPage\\Models\\inverted_index_sorted.cs",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Models\\inverted_index_sorted.cs",
-              "RelativeToolTip": "WebPage\\Models\\inverted_index_sorted.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T18:44:14.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SearchController.cs",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Controllers\\SearchController.cs",
-              "RelativeDocumentMoniker": "WebPage\\Controllers\\SearchController.cs",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Controllers\\SearchController.cs",
-              "RelativeToolTip": "WebPage\\Controllers\\SearchController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T23:22:28.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Program.cs",
-              "RelativeDocumentMoniker": "WebPage\\Program.cs",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Program.cs",
-              "RelativeToolTip": "WebPage\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T18:01:56.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "20250507005733_third.cs",
               "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250507005733_third.cs",
               "RelativeDocumentMoniker": "WebPage\\Migrations\\20250507005733_third.cs",
@@ -235,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "WebPage.csproj",
               "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\WebPage.csproj",
               "RelativeDocumentMoniker": "WebPage\\WebPage.csproj",
@@ -247,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "20250506231708_Second.cs",
               "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250506231708_Second.cs",
               "RelativeDocumentMoniker": "WebPage\\Migrations\\20250506231708_Second.cs",
@@ -259,19 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ISearchService.cs",
-              "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Repositry\\IRepositry\\ISearchService.cs",
-              "RelativeDocumentMoniker": "WebPage\\Repositry\\IRepositry\\ISearchService.cs",
-              "ToolTip": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Repositry\\IRepositry\\ISearchService.cs",
-              "RelativeToolTip": "WebPage\\Repositry\\IRepositry\\ISearchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T22:47:47.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "20250506231034_Init.cs",
               "DocumentMoniker": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\Migrations\\20250506231034_Init.cs",
               "RelativeDocumentMoniker": "WebPage\\Migrations\\20250506231034_Init.cs",
@@ -280,6 +319,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T23:10:35.954Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -35,7 +35,7 @@ namespace WebPage.Migrations
 
                     b.HasKey("FileName");
 
-                    b.ToTable("PageInfos");
+                    b.ToTable("PageInfos", (string)null);
                 });
 
             modelBuilder.Entity("WebPage.Models.inverted_index_sorted", b =>
@@ -53,7 +53,7 @@ namespace WebPage.Migrations
 
                     b.HasIndex("FileName");
 
-                    b.ToTable("Word");
+                    b.ToTable("Word", (string)null);
                 });
 
             modelBuilder.Entity("WebPage.Models.inverted_index_sorted", b =>
