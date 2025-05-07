@@ -1,0 +1,33 @@
+﻿@model IEnumerable<SearchResult>
+
+<div class="container mt-5">
+    <h1>Search Engine</h1>
+
+    <form method="get" action="@Url.Action("Search", "Search")" class="my-4">
+        <div class="input-group">
+            <input type="text" name="query" class="form-control" placeholder="Enter search term...">
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </form>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="results mt-4">
+            @foreach (var result in Model)
+            {
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <a href="@result.URL" target="_blank">@result.URL</a>
+                        </h5>
+                        <p class="card-text">
+                            <small class="text-muted">
+                                Page Rank: @result.PageRank | Word Count: @result.WordCount
+                            </small>
+                        </p>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

@@ -13,6 +13,12 @@ public class Invert_index {
             this.count = count;
         }
     }
+    private static String removeExtension(String filename) {
+        int lastDot = filename.lastIndexOf('.');
+        if (lastDot == -1) return filename;
+        return filename.substring(0, lastDot);
+    }
+
 
     public static void main(String[] args) throws IOException {
         String dirPath = "../output/content";
@@ -45,7 +51,7 @@ public class Invert_index {
 
                 invertedIndex
                         .computeIfAbsent(word, k -> new ArrayList<>())
-                        .add(new WordCount(file.getName(), count));
+                        .add(new WordCount(removeExtension(file.getName()), count));
             }
         }
 
@@ -60,6 +66,7 @@ public class Invert_index {
             for (Map.Entry<String, List<WordCount>> entry : invertedIndex.entrySet()) {
                 String word = entry.getKey();
                 for (WordCount wc : entry.getValue()) {
+
                     writer.printf("%s,%s,%d%n", word, wc.filename, wc.count);
                 }
             }
