@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B0d3TLsdSB7BezC+RR9JkKR2q2CedpiI73oICbDTlLM=",
+  "Hash": "YiZmt4TLP3NFaUBgG2A0T+2ssg2HlDOTN01uScs20eA=",
   "Source": "WebPage",
   "BasePath": "_content/WebPage",
   "Mode": "Default",
@@ -80,6 +80,27 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\css\\styles.css",
+      "SourceId": "WebPage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\",
+      "BasePath": "_content/WebPage",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zl4jnclp5i",
+      "Integrity": "6aq38HepeH6mixGJep/D7936/jpM257IJ4wtPltryzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\favicon.ico",
       "SourceId": "WebPage",
       "SourceType": "Discovered",
@@ -99,6 +120,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\img\\logo.png",
+      "SourceId": "WebPage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\",
+      "BasePath": "_content/WebPage",
+      "RelativePath": "img/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hr83ccbavp",
+      "Integrity": "Hbv80FUg4LYJaKu05TRv1jYmS+60AUMi8nve6I9MgiA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\js\\script.js",
+      "SourceId": "WebPage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\",
+      "BasePath": "_content/WebPage",
+      "RelativePath": "js/script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d2tllihnq3",
+      "Integrity": "ZRM3Pca1d6hcfrgzJFo3qvc+mZuCO1DUA5mVbipTZWA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
       "Identity": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\js\\site.js",
@@ -1403,6 +1466,88 @@
       ]
     },
     {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6aq38HepeH6mixGJep/D7936/jpM257IJ4wtPltryzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 20:37:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6aq38HepeH6mixGJep/D7936/jpM257IJ4wtPltryzE="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.zl4jnclp5i.css",
+      "AssetFile": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6aq38HepeH6mixGJep/D7936/jpM257IJ4wtPltryzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 20:37:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zl4jnclp5i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6aq38HepeH6mixGJep/D7936/jpM257IJ4wtPltryzE="
+        }
+      ]
+    },
+    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\favicon.ico",
       "Selectors": [],
@@ -1481,6 +1626,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "img/logo.hr83ccbavp.png",
+      "AssetFile": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\img\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1399194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hbv80FUg4LYJaKu05TRv1jYmS+60AUMi8nve6I9MgiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 16:09:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hr83ccbavp"
+        },
+        {
+          "Name": "label",
+          "Value": "img/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hbv80FUg4LYJaKu05TRv1jYmS+60AUMi8nve6I9MgiA="
+        }
+      ]
+    },
+    {
+      "Route": "img/logo.png",
+      "AssetFile": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\img\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1399194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hbv80FUg4LYJaKu05TRv1jYmS+60AUMi8nve6I9MgiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 16:09:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hbv80FUg4LYJaKu05TRv1jYmS+60AUMi8nve6I9MgiA="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.d2tllihnq3.js",
+      "AssetFile": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRM3Pca1d6hcfrgzJFo3qvc+mZuCO1DUA5mVbipTZWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 19:53:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d2tllihnq3"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRM3Pca1d6hcfrgzJFo3qvc+mZuCO1DUA5mVbipTZWA="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "C:\\Users\\moram\\SearchEngine\\WebPage\\WebPage\\wwwroot\\js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRM3Pca1d6hcfrgzJFo3qvc+mZuCO1DUA5mVbipTZWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 19:53:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRM3Pca1d6hcfrgzJFo3qvc+mZuCO1DUA5mVbipTZWA="
         }
       ]
     },

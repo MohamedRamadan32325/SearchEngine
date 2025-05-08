@@ -25,6 +25,7 @@ namespace WebPage.Controllers
                 return View("Index");
             }
 
+            
             var results = await _searchService.SearchAsync(query);
             return View("Index", results);
         }

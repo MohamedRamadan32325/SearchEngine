@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using WebPage.Data;
 using WebPage.Models;
 using WebPage.Repositry.IRepositry;
@@ -18,18 +19,16 @@ namespace WebPage.Repositry
         {
             // First, let's modify our models to include proper relationships
             var results = await _context.Word
-                .Include(w => w.PageInfo)  // This assumes we've set up the relationship
-                .Where(w => w.word.Contains(word))
-                .Select(w => new SearchResult
-                {
-                    URL = w.PageInfo.URL,
-                    PageRank = w.PageInfo.PageRank,
-                    WordCount = w.Count
-                })
-                .OrderByDescending(r => r.PageRank)
-                .ThenByDescending(r => r.WordCount)
-                .ToListAsync();
-
+     .Where(w => w.word == word)
+     .Select(w => new SearchResult
+     {
+         URL = w.PageInfo.URL,
+         PageRank = w.PageInfo.PageRank,
+         WordCount = w.Count
+     })
+     .OrderByDescending(r => r.PageRank)
+     .ThenByDescending(r => r.WordCount)
+     .ToListAsync();
             return results;
         }
     }
